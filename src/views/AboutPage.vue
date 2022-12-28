@@ -1,9 +1,9 @@
 <template>
     <HeaderComp page='about'/>
     <h1> contact </h1>
-    <h2> guiaomikhail@gmail.com </h2>
-    <h2> <a href="https://github.com/Cytical"> github </a> </h2>
-    <h2> <a href="https://www.linkedin.com/in/ezra-guiao"> linkedin </a> </h2>
+    <h2> alex@lordshadow.net </h2>
+    <h2> <a href="https://lordshadow.net"> website </a> </h2>
+    <h2> <a href="https://YouTube.com/@Derkila"> YouTube </a> </h2>
 </template>
 
 <script>
